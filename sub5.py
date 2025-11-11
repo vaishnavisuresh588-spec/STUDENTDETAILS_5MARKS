@@ -30,6 +30,11 @@ elif average >= 60:
 else:
     grade = "fail"
 
-    
-
-  
+    print("MARKS 1 IS:", m1)
+    print("MARKS 2 IS:", m2)
+    print("MARKS 3 IS:", m3)
+    print("MARKS 4 IS:", m4)
+    print("MARKS 5 IS:", m5)
+    print("TOTAL MARKS IS:", total)
+    print("AVERAGE IS:", average)
+    print("GRADE IS:", grade)
