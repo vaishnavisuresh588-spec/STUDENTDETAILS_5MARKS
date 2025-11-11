@@ -1,6 +1,6 @@
 import sys
 
-if len(sys.argv) == 5:
+if len(sys.argv) == 6:
   m1 = sys.argv[1]
   m2 = sys.argv[2]
   m3 = sys.argv[3]
