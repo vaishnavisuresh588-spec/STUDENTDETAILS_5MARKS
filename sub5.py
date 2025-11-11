@@ -1,11 +1,11 @@
 import sys
 
 if len(sys.argv) == 6:
-  m1 = sys.argv[1]
-  m2 = sys.argv[2]
-  m3 = sys.argv[3]
-  m4 = sys.argv[4]
-  m5 = sys.argv[5]
+  m1 = Int(sys.argv[1])
+  m2 = Int(sys.argv[2])
+  m3 = Int(sys.argv[3])
+  m4 = Int(sys.argv[4])
+  m5 = Int(sys.argv[5])
 
 else:
   m1 = "80"
